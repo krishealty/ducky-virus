@@ -1,5 +1,5 @@
 ## About
-Simple Bash script program to Factory reset and soft Brick an Android device (Support Andoroid 10+), however, the data can be recovered ONLY by the Antivirus provided in the program itself.  
+Simple Bash script program to Factory reset and soft Brick an Android device (Supports Android 10+), however, the data can be recovered ONLY by the Antivirus provided in the program itself.  
   
 ## Features 
 * Factory Reset
