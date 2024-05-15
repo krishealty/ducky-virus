@@ -1,4 +1,4 @@
-# Redistributions and Modifications are allowed with credits, Don't be a dick.
+# Redistributions and Modifications are allowed with credits.
 
 # Colours
 #-----------------
