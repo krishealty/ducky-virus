@@ -196,14 +196,14 @@ banner
 menu
 }
 upd(){
-if [ -d "$HOME/HXP-Ducky" ];
+if [ -d "$HOME/ducky-virus" ];
 then
 cd $HOME
 rm -rf HXP-Ducky
-elif [ -d "$HOME/HXP-Ducky" ];
+elif [ -d "$HOME/ducky-virus" ];
 then
 cd $HOME
-rm -rf HXP-Ducky
+rm -rf ducky-virus
 else
 echo
 exit 1
@@ -225,7 +225,7 @@ echo
 printf "\e[96m           UPDATE SUCCESSFULL (version 2.39.2992)..!\e[0m"
 sleep 2.0
 cd $HOME
-cd HXP-Duck
+cd ducky-virus
 main.sh
 }
 banner
