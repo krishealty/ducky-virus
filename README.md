@@ -32,7 +32,7 @@ git clone https://github.com/krishealty/ducky-virus
 cd $HOME
 ```
 ```bash
-cd HXP-DUCKY
+cd ducky-virus
 ```
 ```bash
 ls
@@ -53,7 +53,7 @@ sudo apt-get install git -y
 git clone https://github.com/krishealty/ducky-virus
 ```
 ```bash
-cd HXP-DUCKY
+cd ducky-virus
 ```
 ```bash
 bash main.sh
