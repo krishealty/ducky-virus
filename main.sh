@@ -206,13 +206,13 @@ cd $HOME
 sleep 1
 echo -e "         \e[96mUPDATING, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
-printf "                     \e[96m["
+echo "                     \e[96m["
 # While process is running...
 while git clone https://github.com/krishealty/ducky-virus 2> /dev/null; do 
-    printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
+    echo  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
-printf "\e[96m]\e[0m"
+echo "\e[96m]\e[0m"
 echo
 echo
 echo
