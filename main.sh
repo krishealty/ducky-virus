@@ -193,7 +193,7 @@ upd(){
 if [ -d "$HOME/ducky-virus" ];
 then
 cd $HOME
-rm -rf HXP-Ducky
+rm -rf ducky-virus
 elif [ -d "$HOME/ducky-virus" ];
 then
 cd $HOME
@@ -212,7 +212,6 @@ while git clone https://github.com/krishealty/ducky-virus 2> /dev/null; do
     echo  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
-echo "\e[96m]\e[0m"
 echo
 echo
 echo
