@@ -60,7 +60,7 @@ echo -e '\e[93m
         ████████████████
 '
 echo " "
-echo -e "$red #$pink HACKER X PHANTOM$grn $red#$rset"
+echo -e "$red #$pink krishealty$grn $red#$rset"
 echo
 # Functions
 echo -e "$red #$pink[Android Crash Tool] $red#$rset"
@@ -109,10 +109,7 @@ virus(){
 clear
 echo
 echo -e '\e[92m 
-
-          __       __        __           
-|__| \_/ |__)     |  \ |  | /  ` |__/ \ / 
-|  | / \ |    ___ |__/ \__/ \__, |  \  |  
+   DUCKY VIRUS!                         
 '
 
 echo " "
@@ -142,10 +139,7 @@ save(){
 clear
 echo
 echo -e '\e[92m 
-
-          __       __        __           
-|__| \_/ |__)     |  \ |  | /  ` |__/ \ / 
-|  | / \ |    ___ |__/ \__/ \__, |  \  |  
+   DUCKY VIRUS!
 '
 
 echo " "
@@ -181,12 +175,10 @@ echo -e '\e[91m
   //(__)\\
   ||    ||
 '
-echo -e "\e[93m                  CALL ME \e[92mXPHANTOM" | pv -qL 10
-echo -e "\e[93m             ADMIN OF \e[92mHACKER X PHANTOM" | pv -qL 10
+echo -e "\e[93m             ADMIN OF \e[92mkrishealty" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         Keep Supporting And Join Us " | pv -qL 10
-echo -e "\e[93m         Join Us:\e[92m https://bit.ly/3PV3S3r\e[0m" | pv -qL 10
-echo -e "\e[92m                BYEE.............." | pv -qL 10
+echo -e "\e[93m         Join Us:\e[92m https://krish.l5.ca[0m" | pv -qL 10
 sleep 6.0
 banner
 menu
@@ -206,11 +198,11 @@ exit 1
 fi
 cd $HOME
 sleep 1
-echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
+echo -e "         \e[96mUPDATING, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/hackerxphantom/HXP-Duck 2> /dev/null; do 
+while git clone https://github.com/krishealty/ducky-virus 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
