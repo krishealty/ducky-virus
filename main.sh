@@ -29,7 +29,7 @@ echo -e '\e[93m
 
 '
 echo " " 
-echo -e "$red #$pink HACKER X PHANTOM$grn $red#$rset"
+echo -e "$red #$pink krishealty$grn $red#$rset"
 echo 
 # Functions
 echo -e "$red #$pink[Android Crash Tool] $red#$rset"
@@ -93,7 +93,7 @@ then
 about
 elif [ $optnz = "4" ];
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/3PV3S3r > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https:krish.l5.ca > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "5" ];
