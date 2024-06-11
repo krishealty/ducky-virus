@@ -204,12 +204,12 @@ exit 1
 fi
 cd $HOME
 sleep 1
-echo -e "Updating..."
+echo -e " Updating... "
 echo
 echo "                     \e[96m["
 # While process is running...
 while git clone https://github.com/krishealty/ducky-virus 2> /dev/null; do 
-    echo "▓▓▓▓▓▓▓▓▓▓▓▓▓"
+    echo " ▓▓▓▓▓▓▓▓▓▓▓▓▓ "
     sleep 1
 done
 echo
