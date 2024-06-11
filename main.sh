@@ -216,7 +216,7 @@ printf "\e[96m]\e[0m"
 echo
 echo
 echo
-printf "\e[96m           UPDATE SUCCESSFULL (version 2.39.2992)..!\e[0m"
+printf "\e[96m           UPDATE SUCCESSFULL version 2.39.2992..!\e[0m"
 sleep 2.0
 cd $HOME
 cd ducky-virus
