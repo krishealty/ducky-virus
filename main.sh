@@ -183,14 +183,6 @@ fi
 }
 about(){
 clear
-echo -e '\e[91m
-
-   ||  ||  
-    \\()// 
-  //(__)\\
-  ||    ||
-  
-'
 echo -e "\e[93m             Visit the GitHub to contribute: https://github.com/krishealty" | pv -qL 10
 echo -e "\e[93m             Website: https://krish.l5.ca/" | pv -qL 10
 sleep 6.0
